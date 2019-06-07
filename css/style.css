@@ -1,9 +1,14 @@
 body
 {
-	background-color: aqua;
-	color: red;
+	background-color: #501B1D;
+	color: #CAFAFE;
 }
 h1
 {
 	text-align: center;
+	font-size: 100px;
+}
+a:hover
+{
+	color: aqua;
 }
